@@ -1,0 +1,7 @@
+{
+  "name": "Voyage Planner",
+  "description": "A smart travel itinerary planner that generates optimized routes, daily schedules, food recommendations, and stay suggestions using AI.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
